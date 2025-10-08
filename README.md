@@ -13,9 +13,13 @@ This repository focuses on preparing and processing smart grid data for anomaly 
 📂 Repository Structure
 
 data/        # Raw and processed datasets
+
 notebooks/   # Analysis and modeling notebooks
+
 scripts/     # Preprocessing, data generation, blockchain formatting
+
 README.md
+
 
 🛠️ Technologies
 
