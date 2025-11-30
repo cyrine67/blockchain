@@ -18,6 +18,22 @@ System Failures (Atypical equipment behavior)<br>
 ![Alt text](ff3.png)<br>
 The Challenge: How to keep energy data both secure from tampering and reliably monitored for subtle anomalies?<br>
 
+## 🏗 System Architecture
+
+![Blockchain + Neural Network Diagram](b1.png)
+![Alt text](b2.png)
+
+The solution operates in **two main layers**:
+
+### 1️⃣ AI Layer
+- Analyzes time-series data (Voltage, Current, Power).  
+- Detects complex, non-linear patterns indicative of attacks or failures.
+
+### 2️⃣ Blockchain Layer
+- Securely records the data and analysis results.  
+- Uses a linked-list structure where every block contains the hash of the previous block.  
+- Any modification to historical data breaks the chain, alerting the system.
+
 📊 Data Sources
 To build a robust model, we utilized a combination of real and synthetic data:<br>
 Real Dataset: Sourced from Kaggle (~50,000 records) containing actual smart grid monitoring metrics.<br>
