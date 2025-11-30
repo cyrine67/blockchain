@@ -49,13 +49,13 @@ notebooks/   # Analysis and modeling notebooks
 
 scripts/     # Preprocessing, data generation, blockchain formatting
 
-🛠️ Technologies
+## 🛠️ Technologies
 
 🐍 Python: Pandas, NumPy, Matplotlib, Seaborn<br>
 🤖 Machine Learning: TensorFlow, PyTorch, Scikit-Learn<br>
 🔒 Blockchain: SHA-256 hashing for block integrity<br>
 
-📈 Results & Evaluation
+## 📈 Results & Evaluation
 
 We compared the performance of LSTM and Transformer models on a dataset of 50,000 records.<br>
 | Metric               | LSTM Model                  | Transformer Model         | Status                  |
@@ -68,19 +68,19 @@ We compared the performance of LSTM and Transformer models on a dataset of 50,00
 
 
 
-🔮 Future Work
+## 🔮 Future Work
 
 Implement real-time data streaming support.<br>
 Test hybrid LSTM-Transformer architectures.<br>
 Deploy the blockchain layer on a live decentralized network (e.g., Ethereum or Hyperledger).<br>
 
-🌟 Highlights
+## 🌟 Highlights
 
 Bridges IoT, ML, and blockchain for smart grid anomaly detection<br>
 Ensures secure, tamper-proof, and traceable datasets<br>
 Supports LSTM and Transformer models for real-time anomaly detection
 
-👥 Contributors
+## 👥 Contributors
 
 Presented by:
 Cyrine Chalghoumi - Engineering Student<br>
