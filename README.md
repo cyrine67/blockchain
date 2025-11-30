@@ -1,5 +1,19 @@
 ## ⚡ Smart Grid Anomaly Detection with Blockchain
 
+## 📑 Table of Contents
+1. [Key Features](#-key-features)
+2. [Problem Statement](#-problem-statement)
+3. [System Architecture](#-system-architecture)
+4. [Data Sources](#-data-sources)
+5. [Repository Structure](#-repository-structure)
+6. [Technologies](#-technologies)
+7. [Results & Evaluation](#-results--evaluation)
+8. [Future Work](#-future-work)
+9. [Highlights](#-highlights)
+10. [Contributors](#-contributors)
+
+---
+
 This repository focuses on preparing and processing smart grid data for anomaly detection within a blockchain-enabled environment. It combines real and synthetic datasets, machine learning models (LSTM & Transformer), and blockchain-compatible data formatting to ensure secure, traceable, and analyzable energy data.
 
 ## 🚀 Key Features
@@ -64,6 +78,7 @@ We compared the performance of LSTM and Transformer models on a dataset of 50,00
 | False Positive Rate  | 0.15                        | 0.09                     | ✅ Transformer Wins     |
 | Scalability          | Slower on long sequences   | Highly Scalable          | ✅ Transformer Wins     |
 
+![Alt text](f1.png)
 ![Alt text](f2.png)
 
 
