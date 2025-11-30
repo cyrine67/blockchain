@@ -78,7 +78,7 @@ We compared the performance of LSTM and Transformer models on a dataset of 50,00
 | False Positive Rate  | 0.15                        | 0.09                     | ✅ Transformer Wins     |
 | Scalability          | Slower on long sequences   | Highly Scalable          | ✅ Transformer Wins     |
 
-![Alt text](f1.png)
+![Alt text](ff1.png)
 ![Alt text](f2.png)
 
 
