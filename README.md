@@ -50,8 +50,9 @@ The solution operates in **two main layers**:
 
 ## 📊 Data Sources
 To build a robust model, we utilized a combination of real and synthetic data:<br>
-Real Dataset: Sourced from Kaggle (~50,000 records) containing actual smart grid monitoring metrics.<br>
-Synthetic Dataset: Generated via Python to simulate specific attack scenarios often missing from public data, such as:<br>
+- **Real Dataset:** Sourced from [Kaggle (~50,000 records)](https://www.kaggle.com/datasets/ziya07/smart-grid-real-time-load-monitoring-dataset?utm_source=chatgpt.com) containing actual smart grid monitoring metrics.<br>
+
+-**Synthetic Dataset:** Generated via Python to simulate specific attack scenarios often missing from public data, such as:<br>
 DoS Attacks<br>
 Equipment Breakdowns<br>
 
