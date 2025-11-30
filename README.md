@@ -4,11 +4,11 @@ This repository focuses on preparing and processing smart grid data for anomaly 
 
 🚀 Key Features
 
-🧹 Data Preparation: Cleaning, normalization, timestamp formatting, anomaly labeling
-⚡ Anomaly Simulation: Synthetic DoS, energy theft, and equipment failures
-🔗 Blockchain Formatting: Data structured into blocks with SHA-256 hashes for immutability
-🤖 Machine Learning: LSTM & Transformer models for temporal anomaly detection
-📊 Visualization: Exploratory data analysis and anomaly trend visualization
+🧹 Data Preparation: Cleaning, normalization, timestamp formatting, anomaly labeling<br>
+⚡ Anomaly Simulation: Synthetic DoS, energy theft, and equipment failures<br>
+🔗 Blockchain Formatting: Data structured into blocks with SHA-256 hashes for immutability<br>
+🤖 Machine Learning: LSTM & Transformer models for temporal anomaly detection<br>
+📊 Visualization: Exploratory data analysis and anomaly trend visualization<br>
 
 ⚠️Problem Statement
 Smart grids rely on IoT devices for energy management, but increased connectivity introduces vulnerabilities.
