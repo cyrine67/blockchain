@@ -1,8 +1,8 @@
-⚡ Smart Grid Anomaly Detection with Blockchain
+## ⚡ Smart Grid Anomaly Detection with Blockchain
 
 This repository focuses on preparing and processing smart grid data for anomaly detection within a blockchain-enabled environment. It combines real and synthetic datasets, machine learning models (LSTM & Transformer), and blockchain-compatible data formatting to ensure secure, traceable, and analyzable energy data.
 
-🚀 Key Features
+## 🚀 Key Features
 
 🧹 Data Preparation: Cleaning, normalization, timestamp formatting, anomaly labeling<br>
 ⚡ Anomaly Simulation: Synthetic DoS, energy theft, and equipment failures<br>
@@ -10,7 +10,7 @@ This repository focuses on preparing and processing smart grid data for anomaly 
 🤖 Machine Learning: LSTM & Transformer models for temporal anomaly detection<br>
 📊 Visualization: Exploratory data analysis and anomaly trend visualization<br>
 
-⚠️Problem Statement
+## ⚠️Problem Statement
 Smart grids rely on IoT devices for energy management, but increased connectivity introduces vulnerabilities.<br>
 Cyberattacks (Distributed Denial of Service)<br>
 Energy Theft (Meter fraud)<br>
@@ -34,14 +34,14 @@ The solution operates in **two main layers**:
 - Uses a linked-list structure where every block contains the hash of the previous block.  
 - Any modification to historical data breaks the chain, alerting the system.
 
-📊 Data Sources
+## 📊 Data Sources
 To build a robust model, we utilized a combination of real and synthetic data:<br>
 Real Dataset: Sourced from Kaggle (~50,000 records) containing actual smart grid monitoring metrics.<br>
 Synthetic Dataset: Generated via Python to simulate specific attack scenarios often missing from public data, such as:<br>
 DoS Attacks<br>
 Equipment Breakdowns<br>
 
-📂 Repository Structure
+## 📂 Repository Structure
 
 data/        # Raw and processed datasets
 
