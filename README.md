@@ -15,6 +15,7 @@ Smart grids rely on IoT devices for energy management, but increased connectivit
 Cyberattacks (Distributed Denial of Service)<br>
 Energy Theft (Meter fraud)<br>
 System Failures (Atypical equipment behavior)<br>
+![Alt text](ff3.png)<br>
 The Challenge: How to keep energy data both secure from tampering and reliably monitored for subtle anomalies?<br>
 
 📊 Data Sources
